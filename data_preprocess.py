@@ -83,7 +83,7 @@ def feature_mining(full_df):
         generations=20,
         population_size=2000,
         hall_of_fame=100,
-        n_components=10,
+        n_components=15,
         function_set=['add', 'sub', 'mul', 'div'],
         parsimony_coefficient=0.0005,
         max_samples=0.8,

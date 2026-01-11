@@ -3,3 +3,5 @@ temp.py
 *.log
 algorithm/*.png
 data/*_processed.csv
+*.pth
+*.pt
